@@ -1,3 +1,3 @@
-## Gradient Descent
+# Gradient Descent
 
-# This repository contains the scirpt implementing the gradient descent in python
+### This repository contains the scirpt implementing the gradient descent in python
