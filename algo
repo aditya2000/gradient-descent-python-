@@ -1,0 +1,14 @@
+Task 1: Define the hypothsis -> h(x) = mx + c
+
+        Parameters: c, m
+
+Task 2: Define the cost function -> J(c, m) = summation(h(x) - y)^2
+
+Task 3: Minimize the cost function
+
+Task 4: Write the gradient descent to minimze the function
+
+        repeat until convergence {
+            m := m - alpha*partial_derivitve w.r.t m(J(c, m))
+            c := c - alpha*partial_derivitve w.r.t c(J(c, m))
+        }
